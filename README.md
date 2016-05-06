@@ -10,12 +10,12 @@ In the **FontHelper.java**, method **init()**, change the path to the required f
     android:layout_height="match_parent"
     android:orientation="vertical">
     
-    <!--FontHelper going to use the Regular Font-->
+    <!--FontHelper uses the Regular Font-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
         
-        <!--FontHelper going to use the Bold Font-->
+        <!--FontHelper uses the Bold Font-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
