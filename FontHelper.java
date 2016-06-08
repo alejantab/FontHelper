@@ -1,4 +1,4 @@
-package com.auris.ild.demoild.utils;
+package com.freelance.utils;
 
 import android.graphics.Typeface;
 import android.view.View;
